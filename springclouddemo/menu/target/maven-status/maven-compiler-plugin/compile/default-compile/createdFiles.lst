@@ -1,0 +1,7 @@
+com\yifeng\dao\MenuDao.class
+com\yifeng\domain\MenuVo.class
+com\yifeng\dao\TypeDao.class
+com\yifeng\controller\MenuController.class
+com\yifeng\domain\Menu.class
+com\yifeng\MenuApplication.class
+com\yifeng\domain\Type.class

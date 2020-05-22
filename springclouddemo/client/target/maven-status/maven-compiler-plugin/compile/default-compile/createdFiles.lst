@@ -1,0 +1,10 @@
+com\yifeng\controller\UserController.class
+com\yifeng\domain\UserVO.class
+com\yifeng\ClientApplication.class
+com\yifeng\controller\MenuController.class
+com\yifeng\fegin\MenuFeign.class
+com\yifeng\domain\MenuVo.class
+com\yifeng\domain\User.class
+com\yifeng\domain\Type.class
+com\yifeng\fegin\UserFeign.class
+com\yifeng\domain\Menu.class

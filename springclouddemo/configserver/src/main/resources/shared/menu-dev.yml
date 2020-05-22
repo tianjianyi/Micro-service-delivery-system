@@ -1,0 +1,19 @@
+server:
+  port: 8020
+spring:
+  application:
+    name: menu
+  datasource:
+    url: jdbc:mysql://localhost:3306/orderingsystem?useSSL=false&serverTimezone=Hongkong
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    name: orderingsystem
+    username: root
+    password: password
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+mybatis:
+  type-aliases-package: com.yifeng.domain
